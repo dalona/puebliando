@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        cancion=MediaPlayer.create(this,R.raw.audio1);
+        cancion=MediaPlayer.create(this,R.raw.audiosplashjardin);
         cancion.start();
 
         //temporizar el lanzamiento de la cancion

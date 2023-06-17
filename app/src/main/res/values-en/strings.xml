@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VengaAMiPueblo2</string>
+     <string name="descripcionhoteles">
+        In Jardin, you will find hotels and glampings from the
+        $80,000 COP per night, comfortable rooms that will allow you
+        enjoy the rest and peace of the town
+    </string>
+    <string name="opcion1">Spanish</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Portuguese</string>
+    <string name="opcion4">About us</string>
+
+
+</resources>

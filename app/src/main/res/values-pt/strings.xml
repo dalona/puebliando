@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VengaAMiPueblo2</string>
+     <string name="descripcionhoteles">
+        Em principe carolina, você encontra hotéis e glampings do
+        COP $ 80.000 por noite, quartos confortáveis que permitem
+        aproveite o descanso e paz da ciudade
+    </string>
+    <string name="opcion1">Espanhol</string>
+    <string name="opcion2">Inglês</string>
+    <string name="opcion3">Portuguêse</string>
+    <string name="opcion4">Sobre</string>
+
+
+</resources>
